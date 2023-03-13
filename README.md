@@ -1,14 +1,16 @@
-## Hey, [Swappnet Here](https://www.linkedin.com/in/vladokuskov/)
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+little+place)](https://git.io/typing-svg)
+## Hey, [Swappnet Here](https://www.linkedin.com/in/vladokuskov/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-swappnet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladokuskov/)](https://www.linkedin.com/in/vladokuskov/) [![Gmail Badge](https://img.shields.io/badge/-advance11ua@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:advance11ua@gmail.com)](mailto:advance11ua@gmail.com) </p>
 
- ## About me
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+little+place)](https://git.io/typing-svg)
+
+![About.me Badge](https://img.shields.io/badge/About.me-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white)
  
  ```JavaScript
 const userInfo = {
