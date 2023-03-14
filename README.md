@@ -20,7 +20,7 @@ const userInfo = {
         hobbies: ['Cycling', 'Hiking', 'Reading Books'],
         country: 'Ukraine',
         os: 'Windows 11',
-        goals: ['Get first job in WebDev', 'Learn Mandarin']
+        Stack: ['HTML5/CSS3, JS, TS, SCSS/Sass, Vite, Firebase, GIT, ReactJS, NextJS']
     }
  ```
  
