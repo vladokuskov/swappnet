@@ -20,7 +20,7 @@ const userInfo = {
         hobbies: ['Cycling', 'Hiking', 'Reading Books'],
         country: 'Ukraine',
         os: 'Windows 11',
-        Stack: ['HTML5/CSS3, JS, TS, SCSS/Sass, Vite, Firebase, GIT, ReactJS, NextJS']
+        Stack: ['HTML5/CSS3, 'JS', 'TS', 'SCSS/Sass', 'Vite', 'Firebase', 'GIT', 'ReactJS', 'NextJS']
     }
  ```
  
