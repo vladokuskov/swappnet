@@ -24,10 +24,10 @@ const swappnet = {
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
+            other: ["Firebase"],
         },
-        frontEnd: ["ReactJS", "NextJS", "CSS/SCSS/Sass", "Styled Components", "Tailwind", "Redux"]
+        frontEnd: ["ReactJS", "NextJS", "CSS/SCSS/Sass", "Styled Components", "Tailwind", "Redux"],
         databases: ["mongo"],
-        misc: ["Firebase"]
     },
     currentFocus: "cycplanner web app.",
 };
