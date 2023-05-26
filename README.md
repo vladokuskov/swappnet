@@ -1,4 +1,4 @@
-<h2> Hey, I'm Vladyslav Okuskov ( Swappnet )! <img src="https://media.giphy.com/media/l3V0CU2FTL0yExOes/giphy.gif" width="50"></h2>
+<h2> Hey, I'm Vladyslav Okuskov ( Swappnet )
 <img align='right' src="https://media.giphy.com/media/cI5Dm6tQyvFM7LWz7J/giphy.gif" width="230">
 <p><em>Web developer, Front-End
 </a>
