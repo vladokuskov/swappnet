@@ -1,6 +1,6 @@
 <h2> Hey, I'm Vladyslav Okuskov ( Swappnet )
-<img align='right' src="https://media.giphy.com/media/cI5Dm6tQyvFM7LWz7J/giphy.gif" width="230">
-<p><em>Web developer, Front-End
+<img align='right' src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="230">
+<p><em>Web developer
 </a>
 </em></p>
 
@@ -13,6 +13,7 @@
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/vladokuskov/) or write me here - vladokuskov@gmail.com
 
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<em><b>
+I thoroughly enjoy engaging with individuals from diverse backgrounds. If you're interested in initiating a conversation, feel free to reach out!</b> 😊</em>
 
 <!--START_SECTION:waka-->
