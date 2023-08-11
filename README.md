@@ -10,7 +10,7 @@
 
 ### 📫 Like to meet me?
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/vladokuskov/) or write me here - vladokuskov@gmail.com
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/vladokuskov/)
 
 
 <em><b>
